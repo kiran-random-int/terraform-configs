@@ -1,7 +1,7 @@
-users:
-  - username: raju
+users_creation:
+  - username: vishnu
     roles: [AmazonEC2FullAccess]
-  - username: sham
+  - username: ram
     roles: [AmazonS3ReadOnlyAccess]
-  - username: baburao
+  - username: krishna
     roles: [AmazonS3ReadOnlyAccess, AmazonEC2FullAccess]
